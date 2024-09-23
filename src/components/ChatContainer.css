@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.chats_header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+    padding: 2px 16px;
+    
+}
+.chats_header_button{
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(71, 190, 71);
+    color: white;
+    cursor: pointer;
+    padding: 3px 7px; 
+    
+}
